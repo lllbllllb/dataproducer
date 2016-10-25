@@ -1,1 +1,1 @@
-Date produser for https://github.com/lllbllllb/vieworders.git app.
+Date produser (soap) for https://github.com/lllbllllb/vieworders.git app.
